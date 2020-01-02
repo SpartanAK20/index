@@ -16,6 +16,7 @@
 	background-color: #ff9a00;
 	border-color: #ff9a00;
 }
-.nav{
-	background-color: #fff;
+.buffer{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
 }
